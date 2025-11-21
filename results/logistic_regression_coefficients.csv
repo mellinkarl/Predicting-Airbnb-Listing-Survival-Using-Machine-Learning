@@ -1,0 +1,153 @@
+feature,coefficient
+missing_acceptance_rate,0.529334891375163
+number_of_reviews,0.2508413732383599
+host_is_superhost,0.2284433416874017
+property_type_Room in boutique hotel,0.18243413436920763
+property_type_Private room,0.1767929744614527
+property_type_Room in aparthotel,0.17369125208314207
+property_type_Farm stay,0.17067750579686286
+beds,0.15804900867757038
+review_scores_accuracy,0.15738229627925981
+property_type_Private room in tiny home,0.15569811387006885
+host_tenure_days,0.12314001831950629
+property_type_Shipping container,0.11955195597168139
+property_type_Entire home/apt,0.11795747860289198
+has_heating,0.11569216107980185
+host_response_rate,0.11142989353857961
+property_type_Casa particular,0.1103195328025392
+property_type_Private room in cottage,0.10149095838352308
+property_type_Room in resort,0.09687900649497125
+property_type_Private room in hostel,0.0966271615582601
+maximum_nights,0.09615303108769312
+review_scores_cleanliness,0.09173535104355375
+property_type_Entire guesthouse,0.08321235562962172
+review_scores_value,0.07683529822645106
+has_kitchen,0.07588198809694031
+property_type_Shared room in condo,0.07483228270390647
+room_type_Shared room,0.07395090915964637
+property_type_Shared room in guest suite,0.07394111088967024
+property_type_Tipi,0.06972995824901142
+property_type_Dome,0.0684378283507955
+property_type_Entire condo,0.06840947130540682
+review_scores_checkin,0.06753258619431401
+property_type_Earthen home,0.06714279771395872
+property_type_Tiny home,0.06451064857613828
+property_type_Entire cottage,0.0619998714683742
+property_type_Shared room in hostel,0.06155414625428524
+host_has_profile_pic,0.058882515863370295
+property_type_Entire chalet,0.0586566076869763
+property_type_Shared room in townhouse,0.05483390933977845
+property_type_Campsite,0.05469262126371738
+property_type_Ranch,0.05370486776556534
+neighbourhood_cleansed_78712,0.05262643531696197
+property_type_Private room in home,0.048960303359671324
+property_type_Entire guest suite,0.048535951555087706
+property_type_Shared room in rental unit,0.04847515204123238
+property_type_Room in hotel,0.047569755449615385
+property_type_Shared room in loft,0.044613670138143276
+property_type_Shared room in camper/rv,0.041678556617999185
+property_type_Entire vacation home,0.035432238560153824
+price,0.03399664611258612
+property_type_Entire cabin,0.02655614270634844
+review_scores_location,0.017373834714088057
+property_type_Shared room in cabin,0.01506765745900885
+room_type_Private room,0.014534281191507877
+property_type_Entire villa,0.014260287471772493
+has_tv,0.012089784515273205
+property_type_Treehouse,0.011569897415693623
+neighbourhood_cleansed_78736,0.011502729717959865
+property_type_Yurt,0.011395970654580869
+neighbourhood_cleansed_78726,0.010374063927463038
+property_type_Entire home,0.010236698942572751
+property_type_Private room in guest suite,0.007937318931544635
+property_type_Entire townhouse,0.006515907906134028
+property_type_Private room in cabin,0.0058223946908147976
+property_type_Tower,0.005409895006450604
+property_type_Entire bungalow,0.0011734155267002174
+property_type_Private room in earthen home,0.0
+property_type_Room in bed and breakfast,0.0
+minimum_nights,-0.00012415754264171976
+neighbourhood_cleansed_78717,-0.0004330164345598707
+property_type_Private room in townhouse,-0.001728106362858565
+review_scores_rating,-0.003805185381077911
+neighbourhood_cleansed_78703,-0.00454571758087217
+property_type_Tent,-0.006091873225845125
+property_type_Shared room,-0.0074266721885162595
+property_type_Private room in guesthouse,-0.007437736735737474
+neighbourhood_cleansed_78754,-0.00837831437829524
+reviews_per_month,-0.008704645013474368
+property_type_Shared room in home,-0.010059557379773907
+property_type_Private room in bungalow,-0.010410330988652497
+property_type_Entire place,-0.013072903978343339
+neighbourhood_cleansed_78724,-0.013419557887864812
+property_type_Private room in loft,-0.016097808797749975
+missing_response_rate,-0.01620403257404584
+host_response_time_unknown,-0.01620403257404584
+bedrooms,-0.016599332120355564
+property_type_Camper/RV,-0.017747567964813537
+property_type_Private room in camper/rv,-0.01923918464459467
+property_type_Private room in serviced apartment,-0.01924321119852751
+neighbourhood_cleansed_78733,-0.019561823408760566
+accommodates,-0.01970990849862198
+bathrooms,-0.020167015048616066
+property_type_Houseboat,-0.021615347617872847
+neighbourhood_cleansed_78759,-0.03052425338282321
+neighbourhood_cleansed_78732,-0.03058507767427753
+neighbourhood_cleansed_78722,-0.03103005089832256
+property_type_Bus,-0.03572996565677374
+neighbourhood_cleansed_78731,-0.03712799936279217
+neighbourhood_cleansed_78744,-0.037609989479807454
+property_type_Private room in tent,-0.039594540114712466
+neighbourhood_cleansed_78719,-0.04001637078569718
+has_wifi,-0.04194561685242674
+neighbourhood_cleansed_78737,-0.04263995999324896
+neighbourhood_cleansed_78730,-0.04345122756765975
+property_type_Boat,-0.0488279068076399
+neighbourhood_cleansed_78747,-0.05164839816028722
+neighbourhood_cleansed_78739,-0.052709911953938864
+neighbourhood_cleansed_78757,-0.053358440405068
+room_type_Hotel room,-0.05388822044769062
+property_type_Entire serviced apartment,-0.05578698359500731
+availability_365,-0.05605853559938805
+property_type_Private room in condo,-0.05668378824628901
+neighbourhood_cleansed_78738,-0.058177708735990166
+neighbourhood_cleansed_78746,-0.059480231581296894
+neighbourhood_cleansed_78753,-0.06507125275906264
+neighbourhood_cleansed_78728,-0.065272626180938
+neighbourhood_cleansed_78751,-0.06695852023420429
+has_air_conditioning,-0.0670048539418651
+review_scores_communication,-0.06841939388350396
+neighbourhood_cleansed_78750,-0.06852018830889275
+property_type_Private room in casa particular,-0.06882316653711694
+neighbourhood_cleansed_78735,-0.0688801420657214
+host_acceptance_rate,-0.06899190002413183
+has_bed_linens,-0.07079732231989103
+neighbourhood_cleansed_78734,-0.0727977482199214
+property_type_Private room in rental unit,-0.07512508949528181
+property_type_Private room in villa,-0.07515548658577131
+neighbourhood_cleansed_78756,-0.07544430266292225
+neighbourhood_cleansed_78748,-0.07628384817909671
+property_type_Private room in bed and breakfast,-0.07651702864511524
+neighbourhood_cleansed_78752,-0.08336811908569623
+host_response_time_within a day,-0.0834501590240167
+neighbourhood_cleansed_78725,-0.0837265987797268
+neighbourhood_cleansed_78749,-0.08696461920296597
+has_free_parking,-0.0875436744163132
+neighbourhood_cleansed_78742,-0.08764255623882639
+instant_bookable,-0.0880316791308414
+neighbourhood_cleansed_78729,-0.09123035407451505
+neighbourhood_cleansed_78758,-0.09277607161267536
+neighbourhood_cleansed_78704,-0.10042645382935327
+property_type_Entire loft,-0.1029338406544824
+neighbourhood_cleansed_78727,-0.10447644860063997
+neighbourhood_cleansed_78745,-0.11063793689253285
+neighbourhood_cleansed_78705,-0.11877785172102363
+neighbourhood_cleansed_78741,-0.12001860048943731
+property_type_Private room in resort,-0.12875462479817776
+neighbourhood_cleansed_78721,-0.13129005732710175
+neighbourhood_cleansed_78702,-0.13252738958510188
+host_total_listings_count,-0.15470128558132182
+host_response_time_within a few hours,-0.1653201659999859
+neighbourhood_cleansed_78723,-0.17395577312962499
+host_response_time_within an hour,-0.2172075800783733
+property_type_Entire rental unit,-0.273084103492682
